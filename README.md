@@ -5,7 +5,7 @@ Game Engine: Unity3D
 
 ##Things to Do:
 
-###1 Scene Drawing
+####1 Scene Drawing(important)
 ####-Tower:
 ####    Current Idea:5layers
 #####   1st Layer: 4rooms, go into all rooms and get some fragment and combine to form a key,Some enemies patroling or guarding(important)
@@ -21,21 +21,22 @@ Game Engine: Unity3D
 
 
 
-###2 Add Enemies (important)
+####2 Add Enemies (important)
 
-###3 Health System (important)
+####3 Health System (important)
 
-###4 Player Control (important)
+####4 Player Control (important)
 ####Current:W to run,S to walk backward,A,D to switch horizontal angle, Space to jump, left click to attack
 ####Special: w+v to rollForward, w+y to Superjump, 
+####leftclick+drag around = camera position, scrollwheel = zoomIN/out
 
-###5 Add inventory System (Very nice if can implement it)
+####5 Add inventory System (Very nice if can implement it)
 
-###6 Revive Point (less important)
+####6 Revive Point (less important)
 
-###7 Minimap/Radar System(less important)
+####7 Minimap/Radar System(less important)
 
-###8 Newbie tips(Optional)
+####8 Newbie tips(Optional)
 #### Teaching Player how to play the game at the beginning
 
-###9
+####9
